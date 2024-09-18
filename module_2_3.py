@@ -4,6 +4,6 @@ i = 0
 while i < len(my_list):
     elem = my_list[i]
     i += 1
-    if elem < 0:
+    if elem <= 0:
         break
     print(elem)
