@@ -1,4 +1,3 @@
-
 def get_matrix(n, m, value):
     matrix = []
     if n <= 0 or m <= 0:
